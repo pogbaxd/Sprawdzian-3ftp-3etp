@@ -4,4 +4,4 @@ let spalanie = Number(prompt('Wpisz wartość spalania samochodu[l/100km]'));//z
 
 let result = spalanie/100*cena*lenght;// obliczanie kosztu paliwa
 
-document.write('cena paliwa wynosi: ' + result + 'zł');
+document.write('koszt przejazdu wynosi: ' + result + 'zł');
