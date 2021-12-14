@@ -13,3 +13,7 @@ stronie w przeglądarce.
 # zad.3
 Napisz skrypt podający wynik iloczynu wprowadzonej liczby z liczbą
 losową z przedziału od 0 do 50.
+
+# zad.4
+Napisz skrypt wypisujący na ekran największą spośród trzech
+wprowadzonych liczb.
