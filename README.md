@@ -9,3 +9,7 @@ przez użytkownika. Wynik wyświetl na ekranie. (wykorzystaj obiekt Math)
 Wykonaj skrypt wczytujący cenę benzyny, długość trasy oraz wartość
 spalania samochodu. Skrypt ma obliczać koszt przejazdu i wypisywać go na
 stronie w przeglądarce.
+
+#zad.3
+Napisz skrypt podający wynik iloczynu wprowadzonej liczby z liczbą
+losową z przedziału od 0 do 50.
