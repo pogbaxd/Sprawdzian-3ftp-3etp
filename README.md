@@ -18,3 +18,7 @@ losową z przedziału od 0 do 50.
 Napisz skrypt sprawdzający czy wprowadzona liczba jest dodatnia, ujemna
 czy równa 0. Na ekran wypisuje stosowny komunikat. Nie wolno korzystać
 z gotowych funkcji.
+
+# zad.5
+Napisz skrypt wypisujący na ekran największą spośród trzech
+wprowadzonych liczb.
