@@ -7,7 +7,6 @@ switch (true) {
     case (liczba > 0): // gdy liczba jest większa niż zero
         document.write('liczba jest dodatnia');
         break;
-    default: // gdy liczba jest równa zeru
+    case (liczba === 0): // gdy liczba jest równa zero
         document.write('liczba jest równa zero');
 }
-
