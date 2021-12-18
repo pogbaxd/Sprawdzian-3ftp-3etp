@@ -22,3 +22,10 @@ z gotowych funkcji.
 # zad.5
 Napisz skrypt wypisujący na ekran największą spośród trzech
 wprowadzonych liczb.
+
+# zad.6
+Obliczy sumę elementów ciągu arytmetycznego, składającego się ze 100
+elementów, z których każdy kolejny jest większy od poprzedniego o 10.
+Pierwszy element wynosi 5.
+
+# zad.7
