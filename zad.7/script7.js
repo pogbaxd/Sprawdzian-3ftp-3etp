@@ -1,5 +1,3 @@
-
-
 function grid(){ //
     let arr = [];
 
