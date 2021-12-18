@@ -29,3 +29,6 @@ elementów, z których każdy kolejny jest większy od poprzedniego o 10.
 Pierwszy element wynosi 5.
 
 # zad.7
+Obliczy ilość cegieł w piramidzie o podstawie 10 x 10 cegieł.
+
+# zad.8
