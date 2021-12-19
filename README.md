@@ -32,3 +32,6 @@ Pierwszy element wynosi 5.
 Obliczy ilość cegieł w piramidzie o podstawie 10 x 10 cegieł.
 
 # zad.8
+Wyświetli na ekranie ciąg arytmetyczny składający się z N elementów,
+gdzie pierwszy element ma wartość X, a różnica pomiędzy kolejnymi
+elementami ciągu wynosi Y.
