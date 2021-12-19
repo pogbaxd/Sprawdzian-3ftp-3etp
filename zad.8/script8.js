@@ -1,4 +1,4 @@
-let n = Number(prompt('wpisz długość ciągu ciągu'));
+let n = Number(prompt('wpisz długość ciągu'));
 let x = Number(prompt('wpisz liczbę początkową'));
 let y = Number(prompt('wpisz różnice między liczbami'));
 
