@@ -35,3 +35,15 @@ Obliczy ilość cegieł w piramidzie o podstawie 10 x 10 cegieł.
 Wyświetli na ekranie ciąg arytmetyczny składający się z N elementów,
 gdzie pierwszy element ma wartość X, a różnica pomiędzy kolejnymi
 elementami ciągu wynosi Y.
+
+# zad.9
+Napisz skrypt symulujący cztery działania prostego kalkulatora.
+
+# zad.10
+Utwórz element div o klasie kontener, wielkości 50x50px, wprowadź do
+niego swoje imię i nazwisko, a następnie utwórz dla niego następujące
+zdarzenia:
+- po kliknięciu na niego zmień jego tło na losowy kolor
+- po najechaniu na niego kursorem zmień wielkość czcionki na 2 razy większą,
+- po zabraniu kursora z obrębu diva wielkość czcionki ma wracać do pierwotnego
+rozmiaru
