@@ -47,3 +47,11 @@ zdarzenia:
 - po najechaniu na niego kursorem zmień wielkość czcionki na 2 razy większą,
 - po zabraniu kursora z obrębu diva wielkość czcionki ma wracać do pierwotnego
 rozmiaru
+
+# zad.11
+Utwórz paragraf z klasą „wyróżnione”, następnie wprowadź do niego
+nazwę Twojej miejscowości. Utwórz dla niego następujące zdarzenia:
+- po podwójnym kliknięciu na niego nazwa miejscowości niech zostanie zamieniona na
+nazwę powiatu
+- po najechaniu kursorem na paragraf, niech w konsoli zostanie wyświetlony komunikat
+z zawartością paragrafu
